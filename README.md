@@ -67,7 +67,7 @@ To enhance this project, you can consider the following:
 
 For any questions, suggestions, or collaborations related to this project, please feel free to contact the project owner:
 
-- **Name**: Abhishek SHarma
+- **Name**: Abhishek Sharma
 - **Email**: Abhisheksharmaa1404@gmail.com
 
 ## Acknowledgments
